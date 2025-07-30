@@ -1,0 +1,4 @@
+com\VirtualBankingSystem\LoggingService\LoggingServiceApplication.class
+com\VirtualBankingSystem\LoggingService\Service\KafkaConsumerService.class
+com\VirtualBankingSystem\LoggingService\Entity\LogEntry.class
+com\VirtualBankingSystem\LoggingService\Repository\LogEntryRepository.class
